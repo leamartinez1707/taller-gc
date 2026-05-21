@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tallergc.vercel.app/sitemap.xml

@@ -644,6 +644,17 @@ export default function App() {
 
           <div className="mt-10 border-t border-[var(--color-hairline)] pt-8 text-center text-sm text-[var(--color-muted)]">
             <p>&copy; 2026 Taller GC. Todos los derechos reservados.</p>
+            <p className="mt-2 text-xs text-[var(--color-muted)]">
+              Página desarrollada por{' '}
+              <a
+                href="https://www.leandromartinez.com.uy"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[var(--color-body)] underline transition hover:text-[var(--color-accent)]"
+              >
+                leandromartinez.com.uy
+              </a>
+            </p>
           </div>
         </div>
       </footer>
